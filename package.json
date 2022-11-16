@@ -1,0 +1,22 @@
+{
+  "name": "npmexercice",
+  "version": "1.0.0",
+  "description": "just some exercices",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimberley16/npmexercice.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimberley16/npmexercice/issues"
+  },
+  "homepage": "https://github.com/Kimberley16/npmexercice#readme"
+}
